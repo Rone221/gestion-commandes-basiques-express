@@ -1,0 +1,52 @@
+.box-shadow,
+.paralax-mf,
+.service-box,
+.work-box,
+.card-blog {
+    box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
+}
+
+.box-shadow-a,
+.button:hover {
+    box-shadow: 0 0 0 4px #cde1f8;
+}
+
+.about-mf .box-shadow-full {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.about-mf .about-img {
+    margin-bottom: 2rem;
+}
+
+.about-mf .about-img img {
+    margin-left: 10px;
+}
+
+.title-s span {
+    color: white;
+}
+
+.skill-mf .progress {
+    background-color: #cde1f8;
+    margin: .5rem 0 1.2rem 0;
+    border-radius: 0;
+    height: .7rem;
+}
+
+.skill-mf .progress .progress-bar {
+    height: .7rem;
+    background-color: #0078ff;
+}
+
+
+.button-rouded {
+    border-radius: 5rem;
+}
+
+.button-a {
+    background-color: #0078ff;
+    color: #fff;
+    border-color: #cde1f8;
+}

@@ -1,0 +1,60 @@
+.accueil {
+    min-height: 100vh;
+    width: 100%;
+    background: url('../img/3fbbcc7cefde4e59886f74b2a5d365a3~tplv-photomode-image.JPEG') no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.contact {
+    min-height: 100vh;
+    width: 100%;
+    background: url('../img/3fbbcc7cefde4e59886f74b2a5d365a3~tplv-photomode-image.JPEG') no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.profil {
+    min-height: 100vh;
+    width: 100%;
+    background: url('../img/3fbbcc7cefde4e59886f74b2a5d365a3~tplv-photomode-image.JPEG') no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.erreur {
+    min-height: 100vh;
+    width: 100%;
+    background: url('../img/3fbbcc7cefde4e59886f74b2a5d365a3~tplv-photomode-image.JPEG') no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.about-mf .box-shadow-full {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.about-mf .about-img {
+    margin-bottom: 2rem;
+}
+
+.about-mf .about-img img {
+    margin-left: 10px;
+}
+
+.skill-mf span {
+    color: #4e4e4e;
+}
+
+.skill-mf .progress {
+    background-color: #cde1f8;
+    margin: .5rem 0 1.2rem 0;
+    border-radius: 0;
+    height: .7rem;
+}
+
+.skill-mf .progress .progress-bar {
+    height: .7rem;
+    background-color: #0078ff;
+}
